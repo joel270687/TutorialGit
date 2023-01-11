@@ -3,5 +3,6 @@
  */
 public class TesteGit {
     //primeiro commit em feature/assinador
+    //utilizando a feature/sum
 
 }
