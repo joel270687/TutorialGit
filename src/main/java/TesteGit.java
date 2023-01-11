@@ -6,4 +6,5 @@ public class TesteGit {
     //utilizando a feature/sum
     //utilizando a feature/assinador
     //inserindo na feature/teste já criada
+    //teste de terceiro
 }
