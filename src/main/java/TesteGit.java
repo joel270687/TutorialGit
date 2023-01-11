@@ -5,4 +5,5 @@ public class TesteGit {
     //primeiro commit em feature/assinador
     //utilizando a feature/sum
     //utilizando a feature/assinador
+    //inserindo na feature/teste já criada
 }
